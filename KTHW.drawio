@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T09:20:18.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AfbU1FiQYQPLTbaKmyRL" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T10:13:15.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="elbjd6PVYnoUGaa2CMxU" version="21.5.2" type="github">
   <diagram name="Strona-1" id="LIcGz9p34mj6lom9c27u">
-    <mxGraphModel dx="1195" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="68Hwct-F0d1kTlMrPAvt-1" value="1. Create CA and TLS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="160" y="145" width="130" height="60" as="geometry" />
+          <mxGeometry x="170" y="145" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="68Hwct-F0d1kTlMrPAvt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="68Hwct-F0d1kTlMrPAvt-2" target="68Hwct-F0d1kTlMrPAvt-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -34,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="68Hwct-F0d1kTlMrPAvt-9" value="2. Create kubeconfig" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="160" y="295" width="130" height="60" as="geometry" />
+          <mxGeometry x="171" y="295" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="68Hwct-F0d1kTlMrPAvt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="68Hwct-F0d1kTlMrPAvt-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -48,8 +48,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="665" y="415" />
-              <mxPoint x="140" y="415" />
-              <mxPoint x="140" y="505" />
+              <mxPoint x="150" y="415" />
+              <mxPoint x="150" y="505" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -61,8 +61,8 @@
             <mxPoint x="130" y="325" as="targetPoint" />
             <Array as="points">
               <mxPoint x="880" y="235" />
-              <mxPoint x="140" y="235" />
-              <mxPoint x="140" y="325" />
+              <mxPoint x="150" y="235" />
+              <mxPoint x="150" y="325" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -99,8 +99,8 @@
             <Array as="points">
               <mxPoint x="950" y="511" />
               <mxPoint x="950" y="581" />
-              <mxPoint x="140" y="581" />
-              <mxPoint x="140" y="635" />
+              <mxPoint x="150" y="581" />
+              <mxPoint x="150" y="635" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -231,8 +231,8 @@
             <Array as="points">
               <mxPoint x="1250" y="1045" />
               <mxPoint x="1250" y="1130" />
-              <mxPoint x="340" y="1130" />
-              <mxPoint x="340" y="1245" />
+              <mxPoint x="150" y="1130" />
+              <mxPoint x="150" y="1245" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -246,22 +246,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NVeK4hS8OuHmS83PzHyg-52" value="&lt;ol&gt;&lt;li&gt;Create dir to store config&amp;nbsp;&lt;/li&gt;&lt;li&gt;Download binaries for each &lt;b&gt;component&lt;/b&gt;&lt;/li&gt;&lt;li&gt;chmod +x for the downloaded binaries&lt;/li&gt;&lt;li&gt;Move all bin files to proper location (ex. /usr/local/bin)&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1180" width="259" height="130" as="geometry" />
+          <mxGeometry x="170" y="1180" width="259" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NVeK4hS8OuHmS83PzHyg-55" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Dwonloading Control Plane components&lt;/b&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1150" width="259" height="30" as="geometry" />
+          <mxGeometry x="171" y="1150" width="259" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NVeK4hS8OuHmS83PzHyg-56" target="NVeK4hS8OuHmS83PzHyg-64">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NVeK4hS8OuHmS83PzHyg-56" value="Create &lt;b&gt;systemd &lt;/b&gt;service&lt;b&gt;&amp;nbsp;&lt;/b&gt;for every component that we have already installed" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1180" width="200" height="130" as="geometry" />
+          <mxGeometry x="479.5" y="1180" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NVeK4hS8OuHmS83PzHyg-58" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Dwonloading Control Plane components&lt;/b&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="681" y="1150" width="199" height="30" as="geometry" />
+          <mxGeometry x="479.5" y="1150" width="199" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NVeK4hS8OuHmS83PzHyg-62" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Kubernetes the Hard Way course&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="10" width="446.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NVeK4hS8OuHmS83PzHyg-63" value="&lt;i&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;How to setup a kubernetes cluster from scratch&lt;/font&gt;&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="479.5" y="40" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NVeK4hS8OuHmS83PzHyg-64" target="NVeK4hS8OuHmS83PzHyg-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-64" value="&lt;b&gt;RBAC &lt;/b&gt;- &lt;i&gt;role based access control&lt;/i&gt;. &lt;b&gt;RBAC &lt;/b&gt;is a common way to grant access to the users inside kubernetes cluster." style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1180" width="259" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-66" value="&lt;b&gt;What is a RBAC&lt;/b&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1150" width="259" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NVeK4hS8OuHmS83PzHyg-67" target="NVeK4hS8OuHmS83PzHyg-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1128" y="1330" />
+              <mxPoint x="151" y="1330" />
+              <mxPoint x="151" y="1455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-67" value="&lt;ol&gt;&lt;li&gt;Create &lt;b&gt;ClusterRole&lt;/b&gt;&amp;nbsp;with the necessary permissions&lt;/li&gt;&lt;li&gt;Assign that ClusterRole to the &lt;b&gt;Kubernetes &lt;/b&gt;user with a &lt;b&gt;ClusterRoleBinding&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="1180" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-68" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Set up RBAC&lt;/b&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="1150" width="199" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NVeK4hS8OuHmS83PzHyg-70" target="NVeK4hS8OuHmS83PzHyg-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-70" value="&lt;div style=&quot;&quot;&gt;We have to set up a &lt;b&gt;load balancer &lt;/b&gt;to distribute load to both of ours controller nodes. We will use a &lt;b&gt;nginx &lt;/b&gt;for this project.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="171" y="1390" width="259" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-75" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Setting up a Kube API Frontend Load Balancer&lt;/b&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="171" y="1360" width="259" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-76" value="&lt;div style=&quot;&quot;&gt;&lt;ol style=&quot;line-height: 130%;&quot;&gt;&lt;li&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;sudo apt-get -y install nginx&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;sudo systemctl enable nginx&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Courier New&quot;&gt;&amp;nbsp;mkdir -p /etc/nginx/tcpconf.d&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&amp;nbsp;ADD &lt;font face=&quot;Courier New&quot;&gt;include /etc/nginx/tcpconf.d/*&lt;/font&gt; line to the &lt;font face=&quot;Courier New&quot;&gt;/etc/nginx/nginx.conf&lt;/font&gt; file&lt;/li&gt;&lt;li&gt;create &lt;font face=&quot;Courier New&quot;&gt;kubernetes.conf&lt;/font&gt;&amp;nbsp;file and add it to the &lt;font face=&quot;Courier New&quot;&gt;/etc/nginx/tcpconf.d/&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Courier New&quot;&gt;kubernetes.conf&lt;/font&gt; redirects load from both :6443 and :443 to :6443 on both controller nodes&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="473" y="1390" width="547" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NVeK4hS8OuHmS83PzHyg-78" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Set up instruction for Kube API Frontend Load Balancer&lt;/b&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="473.5" y="1360" width="536.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
