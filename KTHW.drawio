@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T10:13:15.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="elbjd6PVYnoUGaa2CMxU" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T10:36:58.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NSTJEu-KGrriLTtMQFVR" version="21.5.2" type="github">
   <diagram name="Strona-1" id="LIcGz9p34mj6lom9c27u">
-    <mxGraphModel dx="2607" dy="1615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,7 +303,7 @@
           <mxGeometry x="473" y="1390" width="547" height="130" as="geometry" />
         </mxCell>
         <mxCell id="NVeK4hS8OuHmS83PzHyg-78" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Set up instruction for Kube API Frontend Load Balancer&lt;/b&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="473.5" y="1360" width="536.5" height="30" as="geometry" />
+          <mxGeometry x="473.5" y="1360" width="546.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
