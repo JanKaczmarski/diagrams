@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T10:12:58.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cD9p9LFSNvJ78vXzm4tR" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T12:02:06.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="R_RvYZpyEqAaMmlvZKag" version="21.6.5" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1434" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -25,22 +25,22 @@
         <mxCell id="8X-mc3TndRLZHefKCfvU-10" value="&lt;a href=&quot;https://kubernetes.io/docs/concepts/overview/components/&quot;&gt;DOCS&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="540" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-14" value="Namespaces" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-14" value="&lt;a href=&quot;https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/&quot;&gt;Namespaces&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="510" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-15" value="Kubeadm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-15" value="&lt;a href=&quot;https://kubernetes.io/docs/reference/setup-tools/kubeadm/&quot;&gt;Kubeadm&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="630" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-16" value="Upgrading kubeadm cluster" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-16" value="&lt;a href=&quot;https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/#upgrading-control-plane-nodes&quot;&gt;Upgrading kubeadm cluster&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="510" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-17" value="Backing up &lt;i&gt;ETCD&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-17" value="&lt;a href=&quot;https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster&quot;&gt;Backing up &lt;i&gt;ETCD&lt;/i&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="630" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-18" value="RBAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-18" value="&lt;a href=&quot;https://kubernetes.io/docs/reference/access-authn-authz/rbac/&quot;&gt;RBAC&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="750" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-19" value="Kubernetes DOCS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-19" value="&lt;a href=&quot;https://kubernetes.io/docs/home/&quot;&gt;Kubernetes DOCS&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="750" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T6Hc4WUhDHhHMKiCZPyU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8X-mc3TndRLZHefKCfvU-22" target="T6Hc4WUhDHhHMKiCZPyU-2" edge="1">
@@ -51,19 +51,19 @@
         <mxCell id="8X-mc3TndRLZHefKCfvU-22" value="Application Configuration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="870" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-23" value="Kubeadm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-23" value="&lt;a href=&quot;https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/&quot;&gt;Health Probes&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="990" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-24" value="Upgrading kubeadm cluster" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-24" value="&lt;a href=&quot;https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/&quot;&gt;Resources&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="870" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-25" value="Backing up &lt;i&gt;ETCD&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="990" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-26" value="RBAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1110" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-27" value="Kubernetes DOCS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="8X-mc3TndRLZHefKCfvU-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1110" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8X-mc3TndRLZHefKCfvU-28" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -71,9 +71,6 @@
             <mxPoint x="870" y="770" as="sourcePoint" />
             <mxPoint x="870" y="470" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="8X-mc3TndRLZHefKCfvU-29" value="&lt;b&gt;TO MODIFY&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="848.78" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T6Hc4WUhDHhHMKiCZPyU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T6Hc4WUhDHhHMKiCZPyU-2" target="T6Hc4WUhDHhHMKiCZPyU-4" edge="1">
           <mxGeometry relative="1" as="geometry">
