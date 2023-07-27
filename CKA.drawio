@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-27T08:54:59.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ncxq1raAdDP1HGhGHN9h" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-27T10:12:58.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cD9p9LFSNvJ78vXzm4tR" version="21.6.5" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1434" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="8X-mc3TndRLZHefKCfvU-19" value="Kubernetes DOCS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="750" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T6Hc4WUhDHhHMKiCZPyU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8X-mc3TndRLZHefKCfvU-22" target="T6Hc4WUhDHhHMKiCZPyU-2">
+        <mxCell id="T6Hc4WUhDHhHMKiCZPyU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8X-mc3TndRLZHefKCfvU-22" target="T6Hc4WUhDHhHMKiCZPyU-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="520" as="targetPoint" />
           </mxGeometry>
@@ -75,15 +75,15 @@
         <mxCell id="8X-mc3TndRLZHefKCfvU-29" value="&lt;b&gt;TO MODIFY&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="848.78" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T6Hc4WUhDHhHMKiCZPyU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6Hc4WUhDHhHMKiCZPyU-2" target="T6Hc4WUhDHhHMKiCZPyU-4">
+        <mxCell id="T6Hc4WUhDHhHMKiCZPyU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="T6Hc4WUhDHhHMKiCZPyU-2" target="T6Hc4WUhDHhHMKiCZPyU-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1160" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T6Hc4WUhDHhHMKiCZPyU-2" value="1. ConfigMaps&lt;br&gt;2. Secrets" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="T6Hc4WUhDHhHMKiCZPyU-2" value="1. ConfigMaps&lt;br&gt;2. &lt;a href=&quot;https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/&quot;&gt;Secrets&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="950" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T6Hc4WUhDHhHMKiCZPyU-4" value="1. Environment Variables&lt;br&gt;2. Configuration Volumes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="T6Hc4WUhDHhHMKiCZPyU-4" value="1. Environment Variables&lt;br&gt;2. &lt;a href=&quot;https://kubernetes.io/docs/concepts/storage/volumes/&quot;&gt;Configuration Volumes&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1110" y="450" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
